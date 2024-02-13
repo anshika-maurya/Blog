@@ -136,6 +136,11 @@ a{
     border-radius: 50%;
     background-color: rgb(243, 235, 235);
 }
+@media (max-width:440px) {
+    .author_avatar_container{
+        border-radius: 45%;
+       
+    }
 .author_info_container{
     display: flex;
     flex-direction: column;
