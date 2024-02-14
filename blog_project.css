@@ -135,8 +135,8 @@ a{
 .author_avatar_container{
     display: flex;
     align-items: center;
-    height: 2.1rem;
-    width: 2.5rem;
+    height: 2rem;
+    width: 2.6rem;
     overflow: hidden;
     border: 1px solid rgb(137, 132, 132);
     border-radius: 47%;
