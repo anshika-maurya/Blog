@@ -139,11 +139,12 @@ a{
     border-radius: 50%;
     background-color: rgb(243, 235, 235);
 }
-@media (max-width:440px) {
+@media (max-width:540px) {
     .author_avatar_container{
-        border-radius: 46%;
+        border-radius: 47%;
 /*         border-bottom-right-radius: 45%; */
         display: flex;
+        align-items: center;
        
     }
 .author_info_container{
