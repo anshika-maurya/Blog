@@ -138,7 +138,9 @@ a{
 }
 @media (max-width:440px) {
     .author_avatar_container{
-        border-radius: 45%;
+        border-radius: 46%;
+        border-bottom-right-radius: 45%;
+        display: flex;
        
     }
 .author_info_container{
