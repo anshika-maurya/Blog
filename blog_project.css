@@ -79,11 +79,11 @@ a{
 .card_image_container{
     position: relative;
     overflow: hidden;
-    height: 8rem;
+    height: 8.1rem;
 }
 @media (min-width:768px) {
     .card_image_container{
-        height: 11rem;
+        height: 10rem;
     }
 }
 
@@ -132,6 +132,7 @@ a{
 }
 .author_avatar_container{
     display: flex;
+    align-items: center;
     height: 2.5rem;
     width: 2.5rem;
     overflow: hidden;
@@ -139,7 +140,7 @@ a{
     border-radius: 50%;
     background-color: rgb(243, 235, 235);
 }
-@media (max-width:540px) {
+@media (max-width:500px) {
     .author_avatar_container{
         border-radius: 47%;
 /*         border-bottom-right-radius: 45%; */
