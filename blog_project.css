@@ -74,10 +74,12 @@ a{
     border-radius: 8px;
     overflow: hidden;
 }
+
+
 .card_image_container{
     position: relative;
     overflow: hidden;
-    height: 8.1rem;
+    height: 8rem;
 }
 @media (min-width:768px) {
     .card_image_container{
