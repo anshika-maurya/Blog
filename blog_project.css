@@ -131,6 +131,7 @@ a{
     gap: 1rem;
 }
 .author_avatar_container{
+    display: flex;
     height: 2.5rem;
     width: 2.5rem;
     overflow: hidden;
@@ -141,7 +142,7 @@ a{
 @media (max-width:440px) {
     .author_avatar_container{
         border-radius: 46%;
-        border-bottom-right-radius: 45%;
+/*         border-bottom-right-radius: 45%; */
         display: flex;
        
     }
