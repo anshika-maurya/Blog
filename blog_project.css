@@ -137,17 +137,17 @@ a{
     width: 2.5rem;
     overflow: hidden;
     border: 1px solid rgb(137, 132, 132);
-    border-radius: 50%;
+    border-radius: 47%;
     background-color: rgb(243, 235, 235);
 }
-@media (max-width:500px) {
+/* @media (max-width:500px) {
     .author_avatar_container{
         border-radius: 47%;
-/*         border-bottom-right-radius: 45%; */
+
         display: flex;
         align-items: center;
        
-    }
+    } */
 .author_info_container{
     display: flex;
     flex-direction: column;
